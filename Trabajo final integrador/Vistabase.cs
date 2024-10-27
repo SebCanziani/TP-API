@@ -10,12 +10,12 @@ using System.Windows.Forms;
 
 namespace TP_API
 {
-    public partial class Form1 : Form
+    public partial class Vistabase : Form
     {
 
             private string Url = "https://fakestoreapi.com/";
 
-        public Form1()
+        public Vistabase()
         {
             InitializeComponent();
         }
